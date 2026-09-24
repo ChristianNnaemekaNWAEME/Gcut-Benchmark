@@ -1,4 +1,4 @@
-# Exhibit J-8: Computational Scalability at Industrial Problem Sizes
+# SCALABILITY BENCHMARK: Computational Scalability at Industrial Problem Sizes
 
 ## What this is
 
