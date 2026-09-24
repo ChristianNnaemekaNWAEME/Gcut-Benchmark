@@ -1,4 +1,4 @@
-# Exhibit J-6: Transferability to General 2D Cutting-Stock Instances
+# Gcut Benchmark: Transferability to General 2D Cutting-Stock Instances
 
 ## What this is
 
